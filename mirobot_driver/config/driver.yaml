@@ -1,0 +1,14 @@
+/**:
+  ros__parameters:
+    port: /dev/ttyUSB0
+    baud: 115200
+    dry_run: false
+    feedrate: 2000
+    workspace_x_min: 140.0
+    workspace_x_max: 290.0
+    workspace_y_min: -270.0
+    workspace_y_max: 270.0
+    workspace_z_min: 40.0
+    workspace_z_max: 300.0
+    status_query_period: 0.2
+    status_timeout: 1.0
